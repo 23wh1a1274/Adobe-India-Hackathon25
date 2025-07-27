@@ -1,8 +1,9 @@
 PyMuPDF==1.23.2
-pdfminer.six==20221105
-pytesseract==0.3.10
-Pillow==10.3.0
-transformers==4.41.1
 sentence-transformers==2.5.1
+transformers==4.41.1
+pytesseract==0.3.10
+pdfminer.six==20221105
+Pillow==10.3.0
 requests
 https://download.pytorch.org/whl/cpu/torch-2.3.0%2Bcpu-cp310-cp310-linux_x86_64.whl
+torch==2.3.0+cpu
